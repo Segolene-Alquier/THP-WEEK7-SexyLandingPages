@@ -92,6 +92,16 @@ header {
   margin-right: 40px;
 }
 
+#log_in:hover {
+  color: rgba(255,255,255,0.5);
+  font-family: "proxima-nova",sans-serif;
+  letter-spacing: .02rem;
+  padding: 10px;
+  font-size: 14px;
+  margin-right: 40px;
+}
+
+
 #get_started {
   color: #E9CA2C;
   font-family: "proxima-nova",sans-serif;
@@ -100,6 +110,17 @@ header {
   font-size: 14px;
   border-radius: 3px;
   border: 2px solid #E9CA2C;
+}
+
+#get_started:hover {
+  color: #314B68;
+  font-family: "proxima-nova",sans-serif;
+  letter-spacing: .02rem;
+  padding: 15px 20px;
+  font-size: 14px;
+  border-radius: 3px;
+  border: 2px solid #E9CA2C;
+  background-color: #E9CA2C;
 }
 
 //* BODY *//
@@ -134,22 +155,32 @@ h1 {
 }
 
 h2 {
-  font-family: "proxima-nova",sans-serif;
+  font-family: "roboto",sans-serif;
   font-size: 16px;
-  font-style: normal;
 }
 
 .big_button {
-  width: 250px;
-  height: 50px;
   background-color: #E0BE2D;
   color: #314B68;
   font-family: "proxima-nova",sans-serif;
   font-size: 15px;
   border-radius: 5px;
-  height: 70px;
-  width: 200px;
+  height: 60px;
+  width: 220px;
   margin-left: 30px;
+}
+
+.big_button:hover {
+
+  background-color: #E0BE2D;
+  color: #314B68;
+  font-family: "proxima-nova",sans-serif;
+  font-size: 15px;
+  border-radius: 5px;
+  height: 60px;
+  width: 220px;
+  margin-left: 30px;
+  opacity: 0.8;
 }
 
 .video {
@@ -159,4 +190,5 @@ h2 {
 	align-self: center;
 	text-align: center;
 	flex:1;
+  background-color: transparent !important;
 }
