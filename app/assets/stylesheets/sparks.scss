@@ -12,10 +12,10 @@ header {
 }
 
 #logo2 {
-  margin-left: 50px;
-  margin-top: 10px;
+  margin-left: 20px;
+  margin-top: 5px;
   width: 15%;
-  background: grey;
+  background-image: asset-data-url("logo2.png");
   background-repeat: no-repeat;
 }
 
@@ -159,21 +159,21 @@ h4 {
 }
 
 #carou1 {
-  background-image: url('carou1.png');
+  background-image: asset-data-url('carou1.png');
   background-repeat: no-repeat;
   width: 260px;
   height: 145px;
 }
 
 #carou2 {
-  background-image: url('carou2.png');
+  background-image: asset-data-url('carou2.png');
   background-repeat: no-repeat;
   width: 260px;
   height: 145px;
 }
 
 #carou3 {
-  background-image: url('carou3.png');
+  background-image: asset-data-url('carou3.png');
   background-repeat: no-repeat;
   width: 260px;
   height: 145px;

@@ -22,7 +22,7 @@ header {
   margin-left: 50px;
   margin-top: 10px;
   width: 15%;
-  background-image: url('logo.png');
+  background-image: asset-data-url('logo.png');
   background-repeat: no-repeat;
 }
 
@@ -188,6 +188,6 @@ h2 {
 	align-self: center;
 	text-align: center;
 	flex:1;
-  background-image: url('screeen.png');
+  background-image: asset-data-url('screeen.png');
   background-repeat: no-repeat;
 }
