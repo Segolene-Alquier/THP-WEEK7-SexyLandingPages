@@ -180,7 +180,7 @@ h4 {
 }
 
 #carou4 {
-  background-image: url('carou4.png');
+  background-image: url('/assets/images/carou4.png');
   background-repeat: no-repeat;
   width: 260px;
   height: 145px;
