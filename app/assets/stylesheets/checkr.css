@@ -23,7 +23,7 @@ header {
   margin-left: 50px;
   margin-top: 10px;
   width: 15%;
-  background: asset-data-url('logo.png');
+  background-image: url('logo.png');
   background-repeat: no-repeat;
 }
 
