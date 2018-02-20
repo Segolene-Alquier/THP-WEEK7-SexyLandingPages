@@ -8,7 +8,6 @@ html {
 }
 
 header {
-  background-color: white;
   height: 60px;
 }
 
@@ -157,7 +156,6 @@ h4 {
   list-style-type: none;
   justify-content: space-between;
   margin-right: 50px;
-  margin-bottom: 100px;
 }
 
 #carou1 {
@@ -199,5 +197,5 @@ h4 {
   font-family: "proxima-nova",sans-serif;
   color: #82919b;
   font-size: 14px;
-  top: -220px;
+  top: -130px;
 }

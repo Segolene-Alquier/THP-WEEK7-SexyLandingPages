@@ -5,10 +5,9 @@ html {
   padding: 0;
   box-sizing: border-box;
   background-color: #4C71A4;
-
 }
 
-//* HEADER *//
+/* HEADER */
 
 header {
   display: flex;
@@ -101,7 +100,6 @@ header {
   margin-right: 40px;
 }
 
-
 #get_started {
   color: #E9CA2C;
   font-family: "proxima-nova",sans-serif;
@@ -123,7 +121,7 @@ header {
   background-color: #E9CA2C;
 }
 
-//* BODY *//
+/* BODY */
 
 .middle {
   display: flex;
@@ -146,7 +144,7 @@ header {
 
 .text_box {
   color: white;
-  padding: 30px;
+  padding: 50px;
 }
 
 h1 {
@@ -184,11 +182,12 @@ h2 {
 }
 
 .video {
-  height: 100%;
-  width: 20%;
+  height: 560px;
+  width: 550px;;
   justify-content:center;
 	align-self: center;
 	text-align: center;
 	flex:1;
-  background-color: transparent !important;
+  background-image: url('screeen.png');
+  background-repeat: no-repeat;
 }
