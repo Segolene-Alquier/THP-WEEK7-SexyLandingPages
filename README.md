@@ -1,24 +1,6 @@
-# README
+# COPYCATS OF TWO SEXY LANDINGS
+## Checkr : https://checkr.com/
+👉 My version on Heroku: https://evening-brushlands-82683.herokuapp.com/home/checkr
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Adobe Sparks : https://spark.adobe.com/about/video
+👉 My version on Heroku: https://evening-brushlands-82683.herokuapp.com/home/sparks
