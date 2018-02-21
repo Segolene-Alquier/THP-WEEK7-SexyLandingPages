@@ -92,7 +92,6 @@ header {
   margin-top: 20px;
   height: 20px;
   padding: 15px 20px;
-
 }
 
 #log_in:hover {
@@ -200,4 +199,16 @@ h2 {
 	flex:1;
   background-image: asset-data-url('screeen.png');
   background-repeat: no-repeat;
+}
+
+.video:hover {
+  height: 560px;
+  width: 550px;;
+  justify-content:center;
+	align-self: center;
+	text-align: center;
+	flex:1;
+  background-image: asset-data-url('screeen.png');
+  background-repeat: no-repeat;
+  opacity: 0.8;
 }

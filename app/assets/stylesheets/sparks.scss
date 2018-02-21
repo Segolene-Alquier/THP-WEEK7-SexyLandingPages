@@ -7,11 +7,19 @@ html {
   background-color: white;
 }
 
+/* HEADER */
+
 header {
   height: 60px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  justify-content: center;
 }
 
 #logo2 {
+  position: relative;
+  left: -350px;
   margin-left: 20px;
   margin-top: 5px;
   width: 15%;
@@ -28,13 +36,14 @@ header {
     font-family: "adobe-clean",sans-serif;
     letter-spacing: .02rem;
     margin-top: 15px;
-    position: relative;
-    align-items: center;
 }
 
 .dropdown {
     position: relative;
     display: inline-block;
+    left: -100px;
+    margin: 0;
+    padding: 0;
 }
 
 .dropdown-content {
@@ -112,6 +121,23 @@ header {
   padding-top: 5px;
 }
 
+#get_started2:hover {
+  background-color: #1269d0;
+  font-family: "proxima-nova",sans-serif;
+  color: white;
+  font-size: 14px;
+  border-radius: 30px;
+  height: 36px;
+  width: 158px;
+  margin-top: 15px;
+  position: absolute;
+  right: 20px;
+  margin-top: 15px;
+  text-align: center;
+  padding-top: 5px;
+}
+
+/* BODY */
 
 .center {
   background-color: #ff4931;
@@ -136,10 +162,18 @@ h4 {
   font-size: 18px;
   margin-bottom: 10px;
   padding-top: 30px;
-
 }
 
 .center_button {
+  background-color: #e8ebed;
+  font-family: "proxima-nova",sans-serif;
+  color: #35414c;
+  width: 150px;
+  padding: 10px;
+  border-radius: 40px;
+}
+
+.center_button:hover {
   background-color: white;
   font-family: "proxima-nova",sans-serif;
   color: #35414c;
