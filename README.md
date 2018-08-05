@@ -5,7 +5,7 @@
 ![Checkr original](https://nsa39.casimages.com/img/2018/08/05/18080508285372107.png)
 ### My version
 
-![Checkr copy](https://nsa39.casimages.com/img/2018/08/05/180805082853645224.png)
+![Checkr copy](https://nsa39.casimages.com/img/2018/08/05/180805083120314508.png)
 
 ## Adobe Sparks : https://spark.adobe.com/about/video
 ### The original
